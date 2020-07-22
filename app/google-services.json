@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052015407353",
+    "firebase_url": "https://rendovchat.firebaseio.com",
+    "project_id": "rendovchat",
+    "storage_bucket": "rendovchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052015407353:android:cc73932684c0789031f228",
+        "android_client_info": {
+          "package_name": "com.example.rendovchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052015407353-iv7smgru5ehmmgfv7btg0nr4o8k366a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUW8YKZFRqcHCoN16dsoimPl9q1oDZFTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052015407353-iv7smgru5ehmmgfv7btg0nr4o8k366a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
